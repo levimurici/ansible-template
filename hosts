@@ -1,0 +1,5 @@
+[wordpress] #Grupo de definição para o ansible
+192.168.101.86 ansible_user=vagrant ansible_ssh_private_key_file="/home/levi/dev-ops/ansible/.configs/ssh-keys/vagrant_id_rsa"
+
+[database]
+192.168.101.87 ansible_user=vagrant ansible_ssh_private_key_file="/home/levi/dev-ops/ansible/.configs/ssh-keys/vagrant_id_rsa"

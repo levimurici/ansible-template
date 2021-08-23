@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/configs":{"guestpath":"/home/configs","hostpath":"/home/levi/dev-ops/ansible/.configs","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/levi/dev-ops/ansible","disabled":false,"__vagrantfile":true}}}

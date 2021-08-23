@@ -1,0 +1,6 @@
+mkdir ssh-keys
+cd ssh-keys
+ssh-keygen -t rsa
+    (/Users/<usuario>/.ssh/id_rsa):
+   /Users/<seu-usuario>/wordpress_com_ansible/ssh-keys/vagrant_id_rsa
+ssh-copy-id -i vagrant_id_rsa.pub vagrant@(-- ip --)
